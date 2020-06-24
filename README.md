@@ -28,3 +28,6 @@ Computer Science 101
  Each course costs $600 to enroll
  The student should be able to view their balance and pay the tuition
  To see the status of the student, we should see their name, ID, courses enrolled, and balance
+
+Project 3
+Bank-management-System
